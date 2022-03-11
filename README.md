@@ -2,7 +2,7 @@
 
 ---
 
-Make sure to personalize your welcome message with something unique!
+test de modif de ce fichier (pour Git). J'ai fait aussi des modif dans le projet.
 
 # BookContents
 Public repo of the Learning C# with Unity 3D book contents
